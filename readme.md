@@ -15,7 +15,7 @@ Please refer to our extensive [Wiki documentation](https://github.com/jorgemht/L
 
 **License**
 
-It is free software distributed under the terms of the MIT license.
+It is free software distributed under the terms of the [MIT license](http://opensource.org/licenses/MIT).
 
 **Version**
 
