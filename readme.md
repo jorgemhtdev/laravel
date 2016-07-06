@@ -1,6 +1,6 @@
 
-**Getting Started**
+#Getting Started
 
-#Installation
+**Installation**
 
-**[Laravel 5 Extended Generators]:** <https://github.com/laracasts/Laravel-5-Generators-Extended>
+**[Laravel 5 Extended Generators]:** (https://github.com/laracasts/Laravel-5-Generators-Extended)
