@@ -8,6 +8,7 @@ class ExampleTest extends TestCase
 {
     /**
      * A basic functional test example.
+     * Check if we run home, we can see Laravel 5.
      *
      * @return void
      */
