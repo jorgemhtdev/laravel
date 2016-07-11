@@ -8,7 +8,7 @@
 This project is built with the latest technologies:
 
 - **[Laravel 5 Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended)** 
-- **[Faker component, Faker is baked into Laravel 5.1. See Faker for information about it. Faker](https://github.com/fzaninotto/Faker)** 
+- **[Faker component, Faker is baked into Laravel 5.1. See Faker for information about it. ](https://github.com/fzaninotto/Faker)** 
 
 **Documentation**
 
