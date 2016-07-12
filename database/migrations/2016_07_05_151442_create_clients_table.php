@@ -17,7 +17,7 @@ class CreateClientsTable extends Migration
             $table->string('name',25);
             $table->string('identity_card',20)->unique();
             $table->smallInteger('age')->nullable()->unsigned();
-            $table->smallInteger('phone')->nullable()->unsigned();
+            $table->integer('phone')->nullable()->unsigned();
             $table->string('address',50)->nullable();
             $table->timestamps();  // With timestamps we create the following fields created_at and updated_at
 
