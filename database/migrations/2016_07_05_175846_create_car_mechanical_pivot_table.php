@@ -13,11 +13,11 @@ class CreateCarMechanicalPivotTable extends Migration
     public function up()
     {
         Schema::create('car_mechanical', function (Blueprint $table) {
+            $table->increments('id')->unsigned();
             $table->integer('car_id')->unsigned()->index()->unsigned();
             $table->foreign('car_id')->references('id')->on('cars')->onDelete('cascade');
             $table->integer('mechanical_id')->unsigned()->index()->unsigned();
             $table->foreign('mechanical_id')->references('id')->on('mechanical')->onDelete('cascade');
-            $table->primary(['car_id', 'mechanical_id']);
             $table->smallInteger('hours');
             $table->date('date');
             $table->timestamps();
