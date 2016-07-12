@@ -3,6 +3,12 @@
 
 **Introduction**
 
+Laravel applications follow the traditional Model-View-Controller design pattern, where you use:
+
+Controllers to handle user requests and retrieve data, by leveraging Models
+Models to interact with your database and retrieve your objects’ information
+Views to render pages
+
 **Technologies**
 
 This project is built with the latest technologies:
