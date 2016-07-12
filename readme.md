@@ -1,7 +1,7 @@
 
 #Getting Started
 
-Laravel-first-steps is a little app based on Laravel. This repository has three branches. The first call **Just-DB** includes only a DB in the folder migrations you have the structure the table. The second call **BD-Faker** is the same the last project but, generates automated data with the library faker (in a folder factories and seeds). The third is the app based on Laravel.
+Laravel-first-steps is a little app based on Laravel. This repository has three branches. The first call **Just-DB** includes only a DB in the folder migrations you have the structure the table. The second call **BD-Faker** is the same the last project but, generates automated data with the library faker (in a folder factories and seeds). The third call **master** is the app based on Laravel.
 
 This project requires PHP >= 5.5.9 
 
